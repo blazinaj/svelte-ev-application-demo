@@ -19,6 +19,6 @@
 		border: none;
 		background-color: #ffffff;
 		box-shadow: 10px 0 10px -5px rgba(0, 0, 0, 0.5);
-		z-index: 2;
+		z-index: 3;
 	}
 </style>

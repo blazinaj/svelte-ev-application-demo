@@ -18,6 +18,7 @@
 		margin: 0;
 		border: none;
 		background-color: #ffffff;
-		z-index: 1;
+    box-shadow: 10px 0 10px -5px rgba(0, 0, 0, 0.5);
+		z-index: 2;
 	}
 </style>
