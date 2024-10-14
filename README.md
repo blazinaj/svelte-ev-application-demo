@@ -15,7 +15,7 @@ A Svelte frontend application demo
 
 ## Design
 🎨 Figma Design: [Svelte EV Application](https://www.figma.com/design/BTXsVV6Kyve6fQPadLWc62/Rythmos-Design-Demo?m=auto&t=CQKW4if0POQ2mESt-1)
-![img.png](img.png)
+![img.png](docs/design.png)
 
 ## Installation
 
